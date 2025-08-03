@@ -30,6 +30,8 @@
 <a href="https://codepen.io/@faruque-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@faruque-hossain" height="30" width="40" /></a>
 <a href="https://dev.to/@devfaruque77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@devfaruque77" height="30" width="40" /></a>
 <a href="https://fb.com/faruque hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="faruque hossain" height="30" width="40" /></a>
+<a href="https://instagram.com/makemony3956" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="makemony3956" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@faruque8102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@faruque8102" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
