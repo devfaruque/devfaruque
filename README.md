@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/ZRJgjRDK/Faruque-Cover-Photo.jpg"
+
 <h1 align="center">Hello 👋, I'm Md. Faruque Hossain</h1>
 <h3 align="center">Professional web designer, developer, and WordPress expert help and encourage businesses and creators to build streaming, effective websites. </h3>
 
